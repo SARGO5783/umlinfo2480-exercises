@@ -1,0 +1,2 @@
+# umlinfo2480-exercises
+Exercises_for_UML_INFO_2480
